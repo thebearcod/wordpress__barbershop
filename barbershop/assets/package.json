@@ -1,0 +1,23 @@
+{
+  "name": "barbershop",
+  "version": "1.0.1",
+  "private": true,
+  "description": "Шаблон для WordPress Ученического проекта Барбершоп",
+  "devDependencies": {
+    "autoprefixer": "9.5.x",
+    "browser-sync": "2.26.x",
+    "gulp": "4.0.x",
+    "gulp-less": "4.0.x",
+    "gulp-plumber": "1.2.x",
+    "gulp-sourcemaps": "2.6.x",
+    "gulp-postcss": "8.0.x",
+    "gulp-rename": "2.0.x",
+    "gulp-csso": "4.0.x"
+  },
+  "scripts": {
+    "start": "gulp start"
+  },
+  "engines": {
+    "node": "8.16"
+  }
+}
